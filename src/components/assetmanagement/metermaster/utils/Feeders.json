@@ -1,0 +1,192 @@
+[
+    {
+        "feeder_name":"AMBERPET",
+        "feeder_id":1,
+        "name":"6 NO CROSS ROAD"
+    },
+    {
+        "feeder_name":"AMBERPET",
+        "feeder_id":2,
+        "name":"AMBERPET"
+    },
+    {
+        "feeder_name":"AMBERPET",
+        "feeder_id":3,
+        "name":"CPL"
+    },
+    {
+        "feeder_name":"AMBERPET",
+        "feeder_id":4,
+        "name":"GOLNAKA"
+    },
+    {
+        "feeder_name":"AMBERPET",
+        "feeder_id":5,
+        "name":"PATELNAGAR"
+    }
+    ,
+     {
+        "feeder_name":"AMBERPET",
+        "feeder_id":6,
+        "name":"PLAY GROUND"
+    },
+    {
+        "feeder_name":"AMBERPET",
+        "feeder_id":7,
+        "name":"SANJEEVAIAH NAGAR"
+    },
+    {
+        "feeder_name":"AMBERPET",
+        "feeder_id":8,
+        "name":"ZINDATILASMATH"
+    },
+    {
+        "feeder_name":"BATHAKAMMAKUNTA",
+        "feeder_id":9,
+        "name":"AYYAPPA TEMPLE"
+    },
+    {
+        "feeder_name":"BATHAKAMMAKUNTA",
+        "feeder_id":10,
+        "name":"CENTRAL EXCISE COLONY"
+    },
+    {
+        "feeder_name":"BATHAKAMMAKUNTA",
+        "feeder_id":11,
+        "name":"DD COLONY"
+    },
+    {
+        "feeder_name":"BATHAKAMMAKUNTA",
+        "feeder_id":12,
+        "name":"RAMALAYAM"
+    },
+    {
+        "feeder_name":"BATHAKAMMAKUNTA",
+        "feeder_id":13,
+        "name":"SAI BABA TEMPLE"
+    },
+    {
+        "feeder_name":"BATHAKAMMAKUNTA",
+        "feeder_id":14,
+        "name":"SHIVAM"
+    },
+    {
+        "feeder_name":"DURGA NAGAR",
+        "feeder_id":15,
+        "name":"BAPU NAGAR"
+    },
+    {
+        "feeder_name":"DURGA NAGAR",
+        "feeder_id":16,
+        "name":"CHENNA REDDY NAGAR"
+    },
+    {
+        "feeder_name":"DURGA NAGAR",
+        "feeder_id":17,
+        "name":"KRISHNA NAGAR"
+    },
+    {
+        "feeder_name":"DURGA NAGAR",
+        "feeder_id":18,
+        "name":"PREM NAGAR"
+    },
+    {
+        "feeder_name":"DURGA NAGAR",
+        "feeder_id":19,
+        "name":"SALEEM NAGAR FEEDER"
+    },
+    {
+        "feeder_name":"GOLNAKA",
+        "feeder_id":20,
+        "name":"BRAHMAN HOSTEL"
+    },
+    {
+        "feeder_name":"GOLNAKA",
+        "feeder_id":21,
+        "name":"SAI MADHURA NAGAR"
+    },
+    {
+        "feeder_name":"GOLNAKA",
+        "feeder_id":22,
+        "name":"SHIVALAYAM"
+    },
+    {
+        "feeder_name":"ZAMISTHANPUR",
+        "feeder_id":23,
+        "name":"JAMMAI OSMANIA"
+    },
+    {
+        "feeder_name":"ZAMISTHANPUR",
+        "feeder_id":24,
+        "name":"L.N.NAGAR"
+    },
+    {
+        "feeder_name":"BAGHLINGAMPALLY",
+        "feeder_id":25,
+        "name":"PREVENTIVE MEDICINE"
+    },
+    {
+        "feeder_name":"DURGA NAGAR",
+        "feeder_id":26,
+        "name":"BAPU NAGAR"
+    },
+    {
+        "feeder_name":"DURGA NAGAR",
+        "feeder_id":27,
+        "name":"KRISHNA NAGAR"
+    },
+    {
+        "feeder_name":"DURGA NAGAR",
+        "feeder_id":28,
+        "name":"PREM NAGAR"
+    },
+    {
+        "feeder_name":"FEVER HOSPITAL",
+        "feeder_id":29,
+        "name":"PREM NAGAR"
+    },
+    {
+        "feeder_name":"GOLNAKA",
+        "feeder_id":30,
+        "name":"KAMALA NAGAR"
+    },
+    {
+        "feeder_name":"GOLNAKA",
+        "feeder_id":31,
+        "name":"SAI MADHURA NAGAR"
+    },
+    {
+        "feeder_name":"GOLNAKA",
+        "feeder_id":32,
+        "name":"SHIVALAYAM"
+    },
+    {
+        "feeder_name":"GOLNAKA",
+        "feeder_id":33,
+        "name":"TULASI NAGAR"
+    },
+    {
+        "feeder_name":"INDUSTRIAL AREA",
+        "feeder_id":34,
+        "name":"AZAMABAD I.E."
+    },
+    {
+        "feeder_name":"MALLEPALLY ITI",
+        "feeder_id":35,
+        "name":"OLD INDIRA NAGAR"
+    },
+    {
+        "feeder_name":"OSMANIA UNIVERSITY",
+        "feeder_id":36,
+        "name":"BOUDHA NAGAR"
+    },
+    {
+        "feeder_name":"VITTALWADI",
+        "feeder_id":37,
+        "name":"YMCA"
+    }
+
+
+
+    
+]

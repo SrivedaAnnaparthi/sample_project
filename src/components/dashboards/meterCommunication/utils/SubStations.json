@@ -1,0 +1,107 @@
+[
+    {
+        "sec_name":"AMBERPET-9440813027",
+        "subsection_id":1,
+        "name":"AMBERPET"
+    },
+    {
+        "sec_name":"AMBERPET-9440813027",
+        "subsection_id":2,
+        "name":"BATHAKAMMAKUNTA"
+    },
+    {
+        "sec_name":"AMBERPET-9440813027",
+        "subsection_id":3,
+        "name":"DURGA NAGAR"
+    },
+    {
+        "sec_name":"AMBERPET-9440813027",
+        "subsection_id":4,
+        "name":"GOLNAKA"
+    },
+    {
+        "sec_name":"AMBERPET-9440813027",
+        "subsection_id":5,
+        "name":"ZAMISTHANPUR"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":6,
+        "name":"AMBERPET"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":7,
+        "name":"BAGHLINGAMPALLY"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":8,
+        "name":"BATHAKAMMAKUNTA"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":9,
+        "name":"DURGA NAGAR"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":10,
+        "name":"FEVER HOSPITAL"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":11,
+        "name":"GOLNAKA"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":12,
+        "name":"INDUSTRIAL AREA"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":13,
+        "name":"MALLEPALLY ITI"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":14,
+        "name":"OSMANIA UNIVERSITY"
+    },
+    {
+        "sec_name":"GOLKONDA-9440813027",
+        "subsection_id":15,
+        "name":"VITTALWADI"
+    },
+    {
+        "sec_name":"RAMALAYAM-9440813027",
+        "subsection_id":16,
+        "name":"AMBERPET"
+    },
+    {
+        "sec_name":"RAMALAYAM-9440813027",
+        "subsection_id":17,
+        "name":"BATHAKAMMAKUNTA"
+    },
+    {
+        "sec_name":"RAMALAYAM-9440813027",
+        "subsection_id":18,
+        "name":"DURGA NAGAR"
+    },
+    {
+        "sec_name":"RAMALAYAM-9440813027",
+        "subsection_id":19,
+        "name":"FEVER HOSPITAL"
+    },
+    {
+        "sec_name":"RAMALAYAM-9440813027",
+        "subsection_id":20,
+        "name":"GOLNAKA"
+    },
+    {
+        "sec_name":"RAMALAYAM-9440813027",
+        "subsection_id":21,
+        "name":"MALLEPALLY ITI"
+    }
+]

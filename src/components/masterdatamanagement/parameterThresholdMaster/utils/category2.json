@@ -1,0 +1,14 @@
+[
+    {
+        "reg2_id": 1,
+        "name": "Non-Domestic/Commercial"
+    },
+    {
+        "reg2_id": 2,
+        "name": "Domestic"
+    },
+    {
+        "reg2_id": 3,
+        "name": "Commercial"
+    }
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"div_name": "AZAMABAD",
+		"subdiv_id": 1,
+		"name": "AMBERPET"
+	},
+	{
+		"div_name": "AZAMABAD",
+		"subdiv_id": 2,
+		"name": "BARKATPURA"
+	},
+	{
+		"div_name": "AZAMABAD",
+		"subdiv_id": 3,
+		"name": "VST"
+	},
+	{
+		"div_name": "MEHDIPATNAM",
+		"subdiv_id": 4,
+		"name": "A.C.GUARDS"
+	},
+	{
+		"div_name": "MEHDIPATNAM",
+		"subdiv_id": 5,
+		"name": "GOLCONDA"
+	},
+	{
+		"div_name": "MEHDIPATNAM",
+		"subdiv_id": 6,
+		"name": "MEHDIPATNAM"
+	},
+	{
+		"div_name": "SAIFABAD",
+		"subdiv_id": 7,
+		"name": "HYDERGUDA"
+	},
+	{
+		"div_name": "SAIFABAD",
+		"subdiv_id": 8,
+		"name": "INDIRA PARK"
+	},
+	{
+		"div_name": "SAIFABAD",
+		"subdiv_id": 9,
+		"name": "SAIFABAD"
+	}
+]

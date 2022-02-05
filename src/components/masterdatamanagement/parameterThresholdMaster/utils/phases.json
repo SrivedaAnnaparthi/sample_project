@@ -1,0 +1,23 @@
+[
+    {
+    "reg_name": "Non-Domestic/Commercial",
+    "name": "3 Ph",
+    "phase_id": 1
+    },
+    {
+        "reg_name": "Domestic",
+        "name": "1 Ph",
+        "phase_id": 2
+        },
+        {
+            "reg_name": "Domestic",
+            "name": "2 Ph",
+            "phase_id": 3
+            },
+            {
+                "reg_name": "Commercial",
+                "name": "3 Ph",
+                "phase_id": 4
+                }
+    
+]
