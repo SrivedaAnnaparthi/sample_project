@@ -6,7 +6,7 @@ const ResponsiveAppBar=()=>{//Header
   return(
       <div>
       <CssBaseline />
-      <AppBar position="static" style={{ background: '#2E3B55' }}>
+      <AppBar elevation={12} position="static" style={{ background: '#c9d2d9',borderRadius:'30px' }}>
       <Toolbar>
         <IconButton size="large" edge="start" color="inherit" aria-label="open drawer">
           <HomeIcon style={{ color: 'white' }} />

@@ -1,6 +1,6 @@
 import TampersAndEvents from '../components/TampersAndEvents';
 import '../../../reports/loadProfileReport/utils/task.css';
-import { Grid } from '@mui/material';
+import { Grid ,Card } from '@mui/material';
 import ResponsiveAppBar from '../components/Header';
 
 
@@ -24,14 +24,12 @@ function TampersAndEventsPage() {
 
             <Grid item xs={1}>
 
-
-
             </Grid>
 
-        <Grid item xs={10}>
-
+        <Grid item xs={12}>
+        <Card elevation={10} sx={{ pt: -19, pb: -8, pl: 1 ,maxHeight:390}} style={{borderRadius:20}}>
           <TampersAndEvents/>
-
+          </Card>
         </Grid>
 
         </Grid>
