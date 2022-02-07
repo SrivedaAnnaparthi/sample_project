@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Stack, Button, Box, Grid, Paper, Typography, TextField, MenuItem } from '@mui/material';
+import { Stack, Button, Box, Grid, Paper, Typography, TextField, MenuItem,Card } from '@mui/material';
 
 import Circle from '../utils/Circle.json';
 import Divisions from '../utils/Divisions.json';
@@ -230,6 +230,7 @@ export default function TampersAndEvents() {
 
     return (
 
+       
         <Box sx={{ pt: 3}}>
            
         <Grid container rowSpacing={3} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
@@ -472,5 +473,6 @@ export default function TampersAndEvents() {
 
         </Grid>
     </Box>
+ 
     );
 }

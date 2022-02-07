@@ -6,26 +6,26 @@ import ContentComponent from './ContentComponent';
 
 const MenuAppBar=()=>{// MenuAppBar component
   return(
-      <div>
+      <>
       <CssBaseline />
-      <AppBar position="static" style={{ background: '#2E3B55' }}>
+      <AppBar elevation={12} position="static" style={{ background: '#c9d2d9',borderRadius:'30px' }}>
       <Toolbar>
         <IconButton size="large" edge="start" color="inherit" aria-label="open drawer">
-          <HomeIcon style={{ color: 'white' }} />
+          <HomeIcon style={{ color: 'black' }} />
         </IconButton>
         <IconButton size="large" edge="start" color="inherit" aria-label="open drawer">
-          <ChevronRightIcon style={{ color: 'white' }} />
+          <ChevronRightIcon style={{ color: 'black' }} />
         </IconButton>
-        <Typography>Dashboards</Typography>
+        <Typography style={{ color: 'black' }}>Dashboards</Typography>
         <IconButton style={{ marginLeft: '0px' }} size="large" edge="start" color="inherit" aria-label="open drawer">
-          <ChevronRightIcon style={{ color: 'white' }} />
+          <ChevronRightIcon style={{ color: 'black' }} />
         </IconButton>
-        <Typography style={{ marginRight: 'auto', marginLeft: '0px' }} variant='h6'>Meter Communication</Typography>
+        <Typography style={{ marginRight: 'auto', marginLeft: '0px', color: 'black' }} variant='h6'>Meter Communication</Typography>
       </Toolbar>
       
-    </AppBar>
+    </AppBar><br/>
     <div>
-    <Card elevation={8}>
+    <Card elevation={10} sx={{ pt: -19, pb: -4, pl: 1 ,maxHeight:375}} style={{borderRadius:20}}>
     <Grid container rowSpacing={3} columnSpacing={2}>
             <Grid item xs={1}>
 
@@ -40,7 +40,7 @@ const MenuAppBar=()=>{// MenuAppBar component
           </Grid>
           </Card>
       </div>
-      </div>
+      </>
 
   )
 }
